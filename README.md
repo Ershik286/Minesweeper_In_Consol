@@ -1,1 +1,3 @@
-# Minesweeper_In_Consol
+# Minesweeper
+ 
+Hello, this Minesweeper in consol
